@@ -1,0 +1,15 @@
+
+.homePage{
+    height: 100vh;
+    width: 100vw;
+    background: url("../assets/img/bb.png") no-repeat;
+    background-size: 100% 100%;
+}
+
+.pageCon{
+    height: 100%;
+    width: 100%;
+    background: url("../assets/img/pt.png") no-repeat;
+    background-position: center center;
+    background-size: 100vw calc(100vw * 1.406);
+}
