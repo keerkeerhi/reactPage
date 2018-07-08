@@ -113,6 +113,11 @@
               <item name="idhpage" type="b2602c69:ProjectViewProjectNode" />
               <item name="idhpage" type="47feb1d3:ProjectViewModuleNode" />
             </path>
+            <path>
+              <item name="idhpage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idhpage" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="idhpage" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -259,12 +264,12 @@
       <workItem from="1530865179541" duration="7444000" />
       <workItem from="1530952109594" duration="6345000" />
       <workItem from="1530965376232" duration="6610000" />
-      <workItem from="1530972112141" duration="17944000" />
+      <workItem from="1530972112141" duration="18131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38343000" />
+    <option name="totallyTimeSpent" value="38530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
