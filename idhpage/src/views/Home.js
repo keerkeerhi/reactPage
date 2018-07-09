@@ -33,7 +33,7 @@ class Home extends Component {
                     </section>
                     <section>
                         <button onClick={this.toTest} className={hs.startbtn} ></button>
-                        <div className={hs.blackItem}>
+                        <div className={hs.blackItem} >
                             <span>听说</span>初雪时要喝啤酒吃炸鸡;
                         </div>
                         <div className={hs.nItem} >
